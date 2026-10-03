@@ -23,15 +23,22 @@
       }
     ]
   },
+  "enabledPlugins": {
+    "agent-skills@addy-agent-skills": true,
+    "ponytail@ponytail": true
+  },
   "extraKnownMarketplaces": {
     "addy-agent-skills": {
       "source": {
         "source": "git",
         "url": "https://github.com/addyosmani/agent-skills.git"
       }
+    },
+    "ponytail": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/DietrichGebert/ponytail.git"
+      }
     }
-  },
-  "enabledPlugins": {
-    "agent-skills@addy-agent-skills": true
   }
 }
