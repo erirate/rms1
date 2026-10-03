@@ -1,0 +1,3 @@
+# Tool config, not app code
+.claude/
+AGENTS.md
